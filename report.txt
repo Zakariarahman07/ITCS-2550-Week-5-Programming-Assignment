@@ -1,0 +1,12 @@
+Name:                                                         John Doe
+Favorite Math Subject:                            Discrete Mathematics
+Confidence Level:                                                    5
+# of Hours Studying Math:                                        12.00
+Estimated Problems Solved Per Hour:                               3.33
+Test Scores-                                      
+Test Score 1:                                                    90.00
+Test Score 2:                                                    89.00
+Test Score 3:                                                    59.00
+Test Score 4:                                                    43.00
+Test Score 5:                                                    90.00
+Average Test Scores:                                             74.20
